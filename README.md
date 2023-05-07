@@ -1,0 +1,2 @@
+# Regress-o-Linear-Simples-x-M-ltipla-para-previs-o-de-pre-os-de-resid-ncias.
+A regressão linear simples e múltipla são técnicas poderosas para prever preços de residências, permitindo que investidores, corretores e outros profissionais da área imobiliária tomem decisões mais informadas e precisas. No entanto, é importante aplicá-las com cuidado e considerar as limitações do modelo e as suposições subjacentes à técnica.
